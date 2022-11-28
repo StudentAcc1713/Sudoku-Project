@@ -1,5 +1,6 @@
 import pygame
 from sudoku_generator import SudokuGenerator
+from static_vars import *
 def main():
     pass
 
